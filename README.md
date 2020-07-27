@@ -1,1 +1,1 @@
-# Greg Wardwell's Javascript Guide
+# Greg Wardwell Javascript Guide
